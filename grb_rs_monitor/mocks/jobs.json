@@ -1,0 +1,3648 @@
+[
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e4c375ac-4513-4c35-ab8b-12f59dfdc9a0",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 1,
+    "startedAt": 1670452066851,
+    "endedAt": 1670452067406,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670452067216,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "441a5277-51e9-4537-8146-4c21d538943e",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 2,
+    "startedAt": 1670452065994,
+    "endedAt": 1670452066591,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670452066393,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e2e7e79c-41d4-475a-bed4-5d1e8bedd5c9",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 3,
+    "startedAt": 1670452065195,
+    "endedAt": 1670452065796,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670452065587,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "eb3cc057-2403-4960-8d01-e954e991440e",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 4,
+    "startedAt": 1670452064342,
+    "endedAt": 1670452064977,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670452064766,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e925dc63-9aa1-42a9-85da-b93fcc3c534d",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 6,
+    "startedAt": 1670452063539,
+    "endedAt": 1670452064125,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670452063929,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "bb734016-cf5a-43c2-bbc5-37dc1201b3bf",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 7,
+    "startedAt": 1670451915181,
+    "endedAt": 1670451915640,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3936,
+      "cols": 2955,
+      "nonz": 10182,
+      "ts": 1670451915601,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1e+100,
+      "objbnd": 1e+100,
+      "nodcnt": 0,
+      "solcnt": 0,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 3
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "5eeefe89-4c71-4ac6-b6e2-1934a810f143",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 8,
+    "startedAt": 1670451912176,
+    "endedAt": 1670451914822,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451912571,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5860.911999999991,
+      "objbnd": 5860.912000000033,
+      "nodcnt": 1,
+      "solcnt": 10,
+      "cutcnt": 218,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "11bdf8e2-296f-4940-af74-2865e19c7df7",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 4,
+    "startedAt": 1670451911183,
+    "endedAt": 1670451911775,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6699,
+      "ts": 1670451911635,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1280,
+      "objbnd": 1280,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "1f97d15c-0059-4b99-ab32-3fb3d1954607",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 4,
+    "startedAt": 1670451909683,
+    "endedAt": 1670451910915,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451910060,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": -2029.8399999999986,
+      "objbnd": -2029.8400000000058,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 1213,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "5b7f6a82-a31f-4a4d-8798-1e9e5f0e4a19",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 4,
+    "startedAt": 1670451908644,
+    "endedAt": 1670451909391,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451909030,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1280,
+      "objbnd": 1279.999999999989,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "fac94f7e-d3b1-4b90-b9c8-5fae0184c1b2",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451903918,
+    "endedAt": 1670451908358,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 1040,
+      "cols": 800,
+      "nonz": 2720,
+      "ts": 1670451904217,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 554.3568571428572,
+      "objbnd": 554.3568571428568,
+      "nodcnt": 2509,
+      "solcnt": 10,
+      "cutcnt": 260,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "ff4a3a53-4a70-4a39-83a9-92bf015d6e79",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451900457,
+    "endedAt": 1670451903655,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451900871,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1864.0000000000005,
+      "objbnd": 1863.9999999999884,
+      "nodcnt": 1543,
+      "solcnt": 9,
+      "cutcnt": 463,
+      "nodlft": 1167
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "db11c4c1-ae60-4570-a8e8-7330fbbe3310",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451899677,
+    "endedAt": 1670451900166,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6699,
+      "ts": 1670451900039,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1280,
+      "objbnd": 1280,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "a1cc3079-e515-4c9f-9c93-3087520425e2",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451898142,
+    "endedAt": 1670451899374,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451898518,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": -2029.8399999999986,
+      "objbnd": -2029.8400000000058,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 1213,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "4c6d208f-2ba9-4d10-9ed8-102ed36931e5",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451892107,
+    "endedAt": 1670451897759,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 6440,
+      "cols": 4925,
+      "nonz": 16970,
+      "ts": 1670451892674,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 4511.897064935068,
+      "objbnd": 4422.942744383654,
+      "nodcnt": 3,
+      "solcnt": 10,
+      "cutcnt": 102,
+      "nodlft": 4
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "9cbd3b0d-3b18-49d2-afb0-946583820f57",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451891004,
+    "endedAt": 1670451891706,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451891360,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1280,
+      "objbnd": 1279.999999999989,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c39af748-d62b-48b7-ad8e-68143c74e3ed",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451890160,
+    "endedAt": 1670451890692,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451890491,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2978.2024999999985,
+      "objbnd": 2978.202500000001,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c4ebc8c1-66c6-4b9c-8b3e-fcd1dadd67f9",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451889215,
+    "endedAt": 1670451889865,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451889619,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7263.428000000006,
+      "objbnd": 7263.428000000006,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "68ee0f3c-728a-4642-b0b3-7505a0baac2d",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451888401,
+    "endedAt": 1670451888909,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451888736,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2246.5524999999993,
+      "objbnd": 2246.552499999999,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "b8a0e821-83a1-4a71-8b99-9ec8894d8b4f",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451887495,
+    "endedAt": 1670451888071,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451887853,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7263.428000000006,
+      "objbnd": 7263.427999999995,
+      "nodcnt": 1,
+      "solcnt": 5,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "45d59ed1-e663-4569-a117-af89dec72814",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451884634,
+    "endedAt": 1670451887233,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451884983,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5860.911999999991,
+      "objbnd": 5860.912000000033,
+      "nodcnt": 1,
+      "solcnt": 10,
+      "cutcnt": 218,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "1da4bb9b-81b2-46a8-a8b7-a90293c046f9",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451883863,
+    "endedAt": 1670451884378,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3936,
+      "cols": 2955,
+      "nonz": 10182,
+      "ts": 1670451884339,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1e+100,
+      "objbnd": 1e+100,
+      "nodcnt": 0,
+      "solcnt": 0,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 3
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "ba3cbf5a-47c1-4f08-b8d6-6da8948de6d1",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451883118,
+    "endedAt": 1670451883561,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3936,
+      "cols": 2955,
+      "nonz": 10182,
+      "ts": 1670451883516,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1e+100,
+      "objbnd": 1e+100,
+      "nodcnt": 0,
+      "solcnt": 0,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 3
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c53e4ca3-4d10-4447-8fb1-e44807a7b41b",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451880109,
+    "endedAt": 1670451882820,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451880477,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3001.25,
+      "objbnd": 3001.249999999999,
+      "nodcnt": 1460,
+      "solcnt": 10,
+      "cutcnt": 26,
+      "nodlft": 1028
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "a0d7c0a9-d7ae-4810-b695-03d666601d31",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451876837,
+    "endedAt": 1670451879753,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451877249,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3095.832,
+      "objbnd": 3095.832,
+      "nodcnt": 1660,
+      "solcnt": 10,
+      "cutcnt": 13,
+      "nodlft": 1263
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "b671892d-a3e7-453f-8003-fb3e4ed9309e",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451871122,
+    "endedAt": 1670451876562,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451871492,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 6800.074000000009,
+      "objbnd": 6800.0740000000005,
+      "nodcnt": 2126,
+      "solcnt": 10,
+      "cutcnt": 659,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "720d16e9-ae44-4a9d-80f1-60d1c8f9f7cb",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451868204,
+    "endedAt": 1670451870815,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451868565,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5860.911999999991,
+      "objbnd": 5860.912000000033,
+      "nodcnt": 1,
+      "solcnt": 10,
+      "cutcnt": 218,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "def2643e-88a4-4fb5-b7a7-14461f33c8d5",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451867207,
+    "endedAt": 1670451867807,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451867598,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2978.2024999999985,
+      "objbnd": 2978.202500000001,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c64253f2-ce38-4c86-ab49-b1d6a2ca1aeb",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451866213,
+    "endedAt": 1670451866898,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451866653,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7263.428000000006,
+      "objbnd": 7263.428000000006,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "37b0cb51-de4d-4dc8-b979-7f5d7ab51699",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451865307,
+    "endedAt": 1670451865866,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451865717,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2246.5524999999993,
+      "objbnd": 2246.552499999999,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "01965a50-ef96-4fc0-acba-1e0eab5377ce",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451864331,
+    "endedAt": 1670451864928,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451864711,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7263.428000000006,
+      "objbnd": 7263.427999999995,
+      "nodcnt": 1,
+      "solcnt": 5,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "bb202160-49ef-4a91-9fdb-5f5c5ca753cf",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451852274,
+    "endedAt": 1670451864038,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451852620,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5549.586000000001,
+      "objbnd": 5549.585999999999,
+      "nodcnt": 1752,
+      "solcnt": 6,
+      "cutcnt": 397,
+      "nodlft": 1267
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "19463d78-ec8b-413f-b4e9-cc3df171893b",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451850533,
+    "endedAt": 1670451851941,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451850911,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5592.082,
+      "objbnd": 5592.081999999999,
+      "nodcnt": 1,
+      "solcnt": 7,
+      "cutcnt": 50,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e20225fe-f43b-49fe-8ad3-9568948be54b",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451849305,
+    "endedAt": 1670451850229,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451849669,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7750.1060000000025,
+      "objbnd": 7750.105999999999,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 282,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "56fe5af1-7d60-460b-9991-fb970f2a2691",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451848011,
+    "endedAt": 1670451849005,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451848406,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5870.102000000002,
+      "objbnd": 5870.101999999996,
+      "nodcnt": 1,
+      "solcnt": 4,
+      "cutcnt": 109,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e98eb14f-7d36-4199-9ba3-5a459ca26c4f",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451844965,
+    "endedAt": 1670451847707,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451845339,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3001.25,
+      "objbnd": 3001.249999999999,
+      "nodcnt": 1460,
+      "solcnt": 10,
+      "cutcnt": 26,
+      "nodlft": 1028
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "49383bc8-647e-40f5-9e1e-d2be12dd505e",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451841723,
+    "endedAt": 1670451844622,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451842129,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3095.832,
+      "objbnd": 3095.832,
+      "nodcnt": 1660,
+      "solcnt": 10,
+      "cutcnt": 13,
+      "nodlft": 1263
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "f02ed540-a6ac-4550-9786-277805104064",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451835973,
+    "endedAt": 1670451841388,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451836296,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 6800.074000000009,
+      "objbnd": 6800.0740000000005,
+      "nodcnt": 2126,
+      "solcnt": 10,
+      "cutcnt": 659,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "8716c28a-6a6e-4de1-a79c-39ccd15d8dbb",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451833069,
+    "endedAt": 1670451835705,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 2684,
+      "cols": 1970,
+      "nonz": 6788,
+      "ts": 1670451833447,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5860.911999999991,
+      "objbnd": 5860.912000000033,
+      "nodcnt": 1,
+      "solcnt": 10,
+      "cutcnt": 218,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "7ca2221c-df1e-41e0-b079-c82594bac0ae",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451832136,
+    "endedAt": 1670451832694,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3127,
+      "cols": 2150,
+      "nonz": 8723,
+      "ts": 1670451832469,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2630.008,
+      "objbnd": 2630.007999999999,
+      "nodcnt": 1,
+      "solcnt": 6,
+      "cutcnt": 9,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "ed72aa4c-96ba-4600-b962-ef2014b44d38",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451829928,
+    "endedAt": 1670451831839,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3127,
+      "cols": 2150,
+      "nonz": 8723,
+      "ts": 1670451830302,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3410.008,
+      "objbnd": 3410.0079999999984,
+      "nodcnt": 118,
+      "solcnt": 6,
+      "cutcnt": 265,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "3eca8f5c-c77c-4c6d-b775-b56ac09550b6",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451828948,
+    "endedAt": 1670451829475,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3127,
+      "cols": 2150,
+      "nonz": 8732,
+      "ts": 1670451829305,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1218.3385,
+      "objbnd": 1218.3385000000005,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "a7faca98-74fc-4544-8bb5-d8d5ad22c019",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451822476,
+    "endedAt": 1670451828089,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3127,
+      "cols": 2150,
+      "nonz": 8732,
+      "ts": 1670451822822,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 3538.3385,
+      "objbnd": 3538.3385000000003,
+      "nodcnt": 2916,
+      "solcnt": 10,
+      "cutcnt": 1477,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "f2eef6de-f21d-4564-953e-5ba0756d21eb",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451821425,
+    "endedAt": 1670451822255,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3127,
+      "cols": 2150,
+      "nonz": 8732,
+      "ts": 1670451821862,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 2120,
+      "objbnd": 2120.0000000000005,
+      "nodcnt": 1,
+      "solcnt": 6,
+      "cutcnt": 188,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "a3cc2581-f39d-4b7b-8ef7-2d4434060ed7",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451820572,
+    "endedAt": 1670451821172,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8187,
+      "ts": 1670451820984,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5600.008,
+      "objbnd": 5600.008000000001,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c643a8db-2384-456f-8dcf-abdf7d1be290",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451814858,
+    "endedAt": 1670451820333,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8187,
+      "ts": 1670451815371,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 7230.0779999999995,
+      "objbnd": 7230.07799999995,
+      "nodcnt": 9305,
+      "solcnt": 10,
+      "cutcnt": 388,
+      "nodlft": 0
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "8ab42fa4-8121-4506-9a69-846339b2ea86",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451813443,
+    "endedAt": 1670451814405,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670451813977,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 1220,
+      "objbnd": 1219.9999999999993,
+      "nodcnt": 1,
+      "solcnt": 3,
+      "cutcnt": 25,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "c4555e5c-e719-4f52-9aec-2e906eb7916e",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451811950,
+    "endedAt": 1670451812527,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670451812338,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 5080,
+      "objbnd": 5080.000000000001,
+      "nodcnt": 1,
+      "solcnt": 2,
+      "cutcnt": 0,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "fdde1650-b7f3-4c1d-831b-c60118f1254d",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451776247,
+    "endedAt": 1670451811713,
+    "solveStatus": 3,
+    "modelInfo": {
+      "rows": 3036,
+      "cols": 2150,
+      "nonz": 8196,
+      "ts": 1670451776686,
+      "index": 1
+    },
+    "mipInfo": {
+      "objbst": 6620.048,
+      "objbnd": 6620.017576291551,
+      "nodcnt": 43356,
+      "solcnt": 10,
+      "cutcnt": 213,
+      "nodlft": 1
+    },
+    "optimizationStatus": {
+      "status": 2
+    }
+  },
+  {
+    "address": "https://server:61000",
+    "nodeId": "4ad6ba2d-5f6b-4fc8-a6a8-86e9cfdf4512",
+    "id": "e5d864d2-a7f0-4002-8005-dccedf2b6c1d",
+    "properties": {
+      "pid": 9,
+      "hostname": "your-optimiser-app-78cb499d67-9krk9",
+      "username": "1001810000",
+      "ip": "1.3.132.21",
+      "runtime": "9.5.0",
+      "strict": true,
+      "origin": "https://server:61000",
+      "apitype": "Python"
+    },
+    "status": 5,
+    "startedAt": 1670451775794,
+    "endedAt": 1670451776115,
+    "solveStatus": 1
+  },    
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "dc18de54-4007-4859-9395-d5f1f3b27cfc",
+        "properties": {
+            "pid": 9696,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699703253944,
+        "endedAt": 1699703312857,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 44585,
+            "cols": 32012,
+            "nonz": 166509,
+            "ts": 1699703260087,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 6842.71764592629,
+            "objbnd": 6592.797714097639,
+            "nodcnt": 3899,
+            "solcnt": 10,
+            "cutcnt": 3227,
+            "nodlft": 2270
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "dd1b40a3-4292-4263-80c1-fb4fa1ad03ef",
+        "properties": {
+            "pid": 9696,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699703158243,
+        "endedAt": 1699703217288,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 44587,
+            "cols": 32013,
+            "nonz": 166510,
+            "ts": 1699703164010,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 6806.122671664672,
+            "objbnd": 6603.55542863749,
+            "nodcnt": 4992,
+            "solcnt": 10,
+            "cutcnt": 3189,
+            "nodlft": 2609
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "7d138543-54d8-4dc4-9467-fbd615171169",
+        "properties": {
+            "pid": 9696,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699703053794,
+        "endedAt": 1699703112799,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 43871,
+            "cols": 31475,
+            "nonz": 164482,
+            "ts": 1699703065543,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 9351.126692826645,
+            "objbnd": 8934.690839930377,
+            "nodcnt": 1731,
+            "solcnt": 10,
+            "cutcnt": 2710,
+            "nodlft": 1458
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "44d4f759-4542-4cb5-a3d0-04d7ebfe11f8",
+        "properties": {
+            "pid": 3348,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699654278177,
+        "endedAt": 1699654337924,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131721,
+            "ts": 1699654300174,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 15419.241472334885,
+            "objbnd": 14291.07247153549,
+            "nodcnt": 1623,
+            "solcnt": 10,
+            "cutcnt": 1035,
+            "nodlft": 1346
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "734ac5b1-03db-4545-8e5d-c36a7fcdf249",
+        "properties": {
+            "pid": 3348,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699654176532,
+        "endedAt": 1699654236192,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131721,
+            "ts": 1699654197275,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 15005.839794846102,
+            "objbnd": 14306.6976817182,
+            "nodcnt": 1521,
+            "solcnt": 10,
+            "cutcnt": 928,
+            "nodlft": 1167
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "be99cf3b-a7b9-4147-9a13-a17832fe2e90",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699640568243,
+        "endedAt": 1699640627588,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131721,
+            "ts": 1699640588846,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 15005.839794846102,
+            "objbnd": 14284.079733222918,
+            "nodcnt": 1520,
+            "solcnt": 10,
+            "cutcnt": 928,
+            "nodlft": 1166
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "bbf0e53f-4339-4a08-ad6f-56f4b4eac56c",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699640272727,
+        "endedAt": 1699640352002,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699640293586,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 16262.72391206678,
+            "objbnd": 14383.108066179528,
+            "nodcnt": 1721,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1219
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "3644f532-014c-497b-b40c-6cadf4f0d6a7",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699640156510,
+        "endedAt": 1699640225466,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699640176910,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 192970.13786159828,
+            "objbnd": 14323.864690796734,
+            "nodcnt": 1712,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1277
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "ccb18c34-7b09-4845-b9b3-3d9f0ccc796d",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699639844100,
+        "endedAt": 1699639903050,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699639865344,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 192970.13786159828,
+            "objbnd": 14251.542587273278,
+            "nodcnt": 1704,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1272
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "306912c3-11f1-4047-9747-8f49aee50280",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699639216164,
+        "endedAt": 1699639295239,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699639236324,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 16262.72391206678,
+            "objbnd": 14384.545750961155,
+            "nodcnt": 1723,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1220
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "296ce847-bb4b-49ec-9120-59ae5124d563",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699639131680,
+        "endedAt": 1699639200645,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699639151940,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 192970.13786159828,
+            "objbnd": 14323.864690796734,
+            "nodcnt": 1712,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1277
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "f7cc4e6b-a4bc-4bd5-8f65-8038388346b0",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699639001329,
+        "endedAt": 1699639090515,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699639022079,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 15519.196369262094,
+            "objbnd": 14419.49062280341,
+            "nodcnt": 1771,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1133
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "a2a20098-3886-4f34-81c2-729ad3380769",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699638344176,
+        "endedAt": 1699638403404,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131727,
+            "ts": 1699638363991,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 192970.13786159828,
+            "objbnd": 14251.542587273278,
+            "nodcnt": 1705,
+            "solcnt": 10,
+            "cutcnt": 89,
+            "nodlft": 1272
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "4ead7753-51ea-4bec-9f70-9d0b2038ba5a",
+        "properties": {
+            "pid": 7020,
+            "hostname": "GB-1SGV5J3",
+            "username": "emma.lewis",
+            "ip": "10.106.11.184",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699638109331,
+        "endedAt": 1699638168171,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 30846,
+            "cols": 22071,
+            "nonz": 131721,
+            "ts": 1699638129180,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 15005.839794846102,
+            "objbnd": 14306.6976817182,
+            "nodcnt": 1521,
+            "solcnt": 10,
+            "cutcnt": 928,
+            "nodlft": 1167
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "00ccb8e0-7d45-496b-99a5-dacc301a9cf0",
+        "properties": {
+            "pid": 30556,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699636845614,
+        "endedAt": 1699636964104,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226104,
+            "ts": 1699636881061,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 59901.03587517659,
+            "objbnd": 17679.49828935894,
+            "nodcnt": 3423,
+            "solcnt": 10,
+            "cutcnt": 8372,
+            "nodlft": 3227
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "7d3bea55-58e2-4737-a1f6-f9a285bc41cd",
+        "properties": {
+            "pid": 30556,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699636604395,
+        "endedAt": 1699636692739,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226104,
+            "ts": 1699636639155,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 1962920.7844382515,
+            "objbnd": 17676.225973933935,
+            "nodcnt": 2249,
+            "solcnt": 10,
+            "cutcnt": 8156,
+            "nodlft": 2177
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "37f9ae34-e4af-4b0f-b148-8e5cb400de5b",
+        "properties": {
+            "pid": 30556,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699636388011,
+        "endedAt": 1699636444909,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226104,
+            "ts": 1699636421158,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 59866151.66877323,
+            "objbnd": 17676.225973933935,
+            "nodcnt": 497,
+            "solcnt": 10,
+            "cutcnt": 7937,
+            "nodlft": 498
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "d2d831d2-13ad-41db-be51-b9cc2c1a2c29",
+        "properties": {
+            "pid": 30556,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699636168822,
+        "endedAt": 1699636226384,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226596,
+            "ts": 1699636201012,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 693289214.3245056,
+            "objbnd": 17826.971722043858,
+            "nodcnt": 1087,
+            "solcnt": 10,
+            "cutcnt": 5852,
+            "nodlft": 1048
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "d9ceda64-08e7-4cdc-ae3c-0aab931e7536",
+        "properties": {
+            "pid": 30556,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699635742447,
+        "endedAt": 1699635860381,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226104,
+            "ts": 1699635776429,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 52624.054055019435,
+            "objbnd": 17679.49828935894,
+            "nodcnt": 3632,
+            "solcnt": 10,
+            "cutcnt": 8422,
+            "nodlft": 3418
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "0f4f6088-4f2e-4928-9051-a7c4de53e944",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699635039209,
+        "endedAt": 1699635126830,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 200370,
+            "ts": 1699635075424,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 109569603.76011965,
+            "objbnd": 17562.898312992787,
+            "nodcnt": 1240,
+            "solcnt": 10,
+            "cutcnt": 9077,
+            "nodlft": 1232
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "bf80b18c-f6c5-4c93-b916-9d85da9bc7e7",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699634477525,
+        "endedAt": 1699634565582,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 200428,
+            "ts": 1699634513833,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 760986714.9986104,
+            "objbnd": 17568.519809802365,
+            "nodcnt": 1466,
+            "solcnt": 10,
+            "cutcnt": 9185,
+            "nodlft": 1453
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "609f53e5-f24e-4b09-a3ca-fe9eba99421b",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699633314424,
+        "endedAt": 1699633408425,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43786,
+            "nonz": 217684,
+            "ts": 1699633407854,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 1e+100,
+            "objbnd": -1e+100,
+            "nodcnt": 0,
+            "solcnt": 0,
+            "cutcnt": 4969,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "3e26e3ad-bbfe-41f3-aca2-bdbdf415150d",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699633032644,
+        "endedAt": 1699633119921,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 217746,
+            "ts": 1699633070824,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 613727095.4858031,
+            "objbnd": 17553.578965659563,
+            "nodcnt": 1468,
+            "solcnt": 10,
+            "cutcnt": 9522,
+            "nodlft": 1420
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "d8d2f5d5-9484-42d8-96a5-aeac3f82d881",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699631652602,
+        "endedAt": 1699631740089,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 225366,
+            "ts": 1699631692128,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 360915760.7323772,
+            "objbnd": 17609.02821373862,
+            "nodcnt": 1730,
+            "solcnt": 10,
+            "cutcnt": 9648,
+            "nodlft": 1688
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "f81b10d4-1a10-4673-b352-78e16c995c5d",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699630134084,
+        "endedAt": 1699630189725,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 223644,
+            "ts": 1699630173426,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 2401429836.9428625,
+            "objbnd": 17582.151915167426,
+            "nodcnt": 1,
+            "solcnt": 1,
+            "cutcnt": 4787,
+            "nodlft": 2
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "8184f722-b0d2-4573-9de8-dc32eb1d39b5",
+        "properties": {
+            "pid": 16340,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699629839107,
+        "endedAt": 1699629894706,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226104,
+            "ts": 1699629872279,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 75291598.6700625,
+            "objbnd": 17676.225973933935,
+            "nodcnt": 409,
+            "solcnt": 10,
+            "cutcnt": 7937,
+            "nodlft": 410
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "5facb6fb-e454-44bb-b890-bcb15be363d3",
+        "properties": {
+            "pid": 20384,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699628482903,
+        "endedAt": 1699628546481,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43817,
+            "nonz": 226596,
+            "ts": 1699628545845,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 1e+100,
+            "objbnd": -1e+100,
+            "nodcnt": 0,
+            "solcnt": 0,
+            "cutcnt": 3933,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 9
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "3145b55a-6f6e-43bb-a372-a053956d6438",
+        "properties": {
+            "pid": 28404,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 3,
+        "startedAt": 1699628420390,
+        "endedAt": 1699628436460,
+        "solveStatus": 1
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "e093ca47-8b37-4ca3-987b-f0e0c6994969",
+        "properties": {
+            "pid": 29664,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 8,
+        "startedAt": 1699628345163,
+        "endedAt": 1699628412958,
+        "solveStatus": 1
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "02bf8244-c102-4020-8283-fb993f5045fa",
+        "properties": {
+            "pid": 27260,
+            "hostname": "GB-C09D9Y2",
+            "username": "norton.powell",
+            "ip": "10.106.11.185",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618503537,
+        "endedAt": 1699618855566,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 60605,
+            "cols": 43786,
+            "nonz": 226534,
+            "ts": 1699618854667,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 44166.44278971948,
+            "objbnd": 17871.253210941682,
+            "nodcnt": 14885,
+            "solcnt": 1,
+            "cutcnt": 3908,
+            "nodlft": 11133
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "5c4ef302-fe6c-49a8-a8e6-f42ce68a4c75",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618737076,
+        "endedAt": 1699618738790,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 910,
+            "cols": 458,
+            "nonz": 2888,
+            "ts": 1699618737163,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 1e+100,
+            "objbnd": 1e+100,
+            "nodcnt": 0,
+            "solcnt": 0,
+            "cutcnt": 0,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 3
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "3d0c5235-5a05-480b-9b91-f7fc59f6e53b",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618733840,
+        "endedAt": 1699618738668,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 852,
+            "cols": 458,
+            "nonz": 2656,
+            "ts": 1699618734006,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 1e+100,
+            "objbnd": 1e+100,
+            "nodcnt": 0,
+            "solcnt": 0,
+            "cutcnt": 0,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 3
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "e0f97c2e-0bae-4da8-bdea-d46b227ebdfe",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618738461,
+        "endedAt": 1699618738561,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 172,
+            "cols": 130,
+            "nonz": 396,
+            "ts": 1699618738499,
+            "index": 1
+        },
+        "mipInfo": {
+            "objbst": 320,
+            "objbnd": 320,
+            "nodcnt": 0,
+            "solcnt": 1,
+            "cutcnt": 0,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "fcc836a1-aa5a-4c96-9888-a3ee93f02c4a",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618738351,
+        "endedAt": 1699618738407,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 154,
+            "cols": 98,
+            "nonz": 358,
+            "ts": 1699618738381,
+            "index": 1
+        },
+        "mipInfo": {
+            "objbst": 0.5699999999999952,
+            "objbnd": 0.5699999999999952,
+            "nodcnt": 0,
+            "solcnt": 1,
+            "cutcnt": 0,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "5f72d379-34a2-41bc-ba41-93c9e293dc3c",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618738026,
+        "endedAt": 1699618738301,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618738233,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "e479646a-380e-4e39-8835-51ebb193ccb1",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618737272,
+        "endedAt": 1699618737842,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618737667,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "af488de8-5160-4003-aaa2-a3aa82ee7449",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618736513,
+        "endedAt": 1699618736950,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618736832,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "f9125b83-a98b-475d-8d84-dd7edecf06ad",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618735908,
+        "endedAt": 1699618736323,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618736167,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "d71de334-ea59-4731-958b-3a53218fbe19",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618735553,
+        "endedAt": 1699618735839,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618735784,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "14f00025-6825-4b9d-b1dc-34df2aa8e4c3",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618735065,
+        "endedAt": 1699618735406,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618735296,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "4246de26-5b61-463e-8d55-c77adc40cf70",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618734656,
+        "endedAt": 1699618734923,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618734810,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "1c2cc5d3-f767-4ec7-ac9b-90767d9463ad",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618734127,
+        "endedAt": 1699618734534,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618734410,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "eacf7041-9028-4be7-ade4-2613f57c6b8c",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618733326,
+        "endedAt": 1699618733781,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618733718,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "c8ac5a35-bc56-43e9-a1b7-50e60f617c1f",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618732852,
+        "endedAt": 1699618733138,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618732985,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "4372bc77-fe94-4e06-80f9-1e23580b80eb",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618732064,
+        "endedAt": 1699618732694,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618732470,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "db688f8f-7d85-40e1-93a6-4097b172c0e5",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618731668,
+        "endedAt": 1699618732001,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618731920,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "070d65b0-7f03-4f19-bdd2-883739146717",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618731056,
+        "endedAt": 1699618731528,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 908,
+            "cols": 458,
+            "nonz": 2872,
+            "ts": 1699618731350,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 3.2281190476168207,
+            "objbnd": 3.228114285712061,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "9a39c373-c72b-497c-8ff3-c3f3da3f8aa2",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618730798,
+        "endedAt": 1699618731005,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 850,
+            "cols": 458,
+            "nonz": 2640,
+            "ts": 1699618730949,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": 271.1619999998129,
+            "objbnd": 271.1615999998131,
+            "nodcnt": 1,
+            "solcnt": 4,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "c0128c5a-cdf4-4a2e-b42e-22647293ffb8",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618729710,
+        "endedAt": 1699618730577,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 2461,
+            "cols": 1873,
+            "nonz": 7048,
+            "ts": 1699618730288,
+            "index": 2
+        },
+        "mipInfo": {
+            "objbst": -8.881784197001252e-16,
+            "objbnd": -4.343455657085382e-07,
+            "nodcnt": 1,
+            "solcnt": 2,
+            "cutcnt": 0,
+            "nodlft": 0
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    },
+    {
+        "address": "https://host07.azure.uk:61000",
+        "nodeId": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "id": "c76bbc17-fe15-4261-93cd-c8c04cc926b4",
+        "properties": {
+            "pid": 13324,
+            "hostname": "AZUKL-P-PRE0024",
+            "username": "john.sweeny",
+            "ip": "10.51.72.254",
+            "runtime": "10.0.2",
+            "strict": true,
+            "origin": "https://host07.azure.uk:61000",
+            "apitype": "Python"
+        },
+        "status": 5,
+        "startedAt": 1699618729262,
+        "endedAt": 1699618729505,
+        "solveStatus": 3,
+        "modelInfo": {
+            "rows": 380,
+            "cols": 290,
+            "nonz": 1052,
+            "ts": 1699618729331,
+            "index": 1
+        },
+        "mipInfo": {
+            "objbst": 54.000000000000014,
+            "objbnd": 54.00000000000003,
+            "nodcnt": 1,
+            "solcnt": 5,
+            "cutcnt": 0,
+            "nodlft": 1
+        },
+        "optimizationStatus": {
+            "status": 2
+        }
+    }
+]
