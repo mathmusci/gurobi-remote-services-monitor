@@ -1,0 +1,74 @@
+[   
+    {
+        "id": "b1776831-e0ca-11c2-1eb2-adf1f1047049",
+        "address": "https://host08.azure.uk.corporg.net:61000",
+        "type": 1,
+        "license": 1,
+        "status": 1,
+        "processing": 1,
+        "started_at": 1697825593355,
+        "runtimes": [
+            "10.0.0",
+            "10.0.1",
+            "10.0.2",
+            "9.0.0",
+            "9.0.1",
+            "9.0.2",
+            "9.0.3",
+            "9.1.0",
+            "9.1.1",
+            "9.1.2",
+            "9.5.0",
+            "9.5.1",
+            "9.5.2"
+        ],
+        "version": "10.0.2-v10.0.2rc0",
+        "job_limit": 8,
+        "group": null,
+        "metrics": {
+            "nb_running_jobs": null,
+            "nb_queued_jobs": null,
+            "nb_recent_jobs": 50,
+            "processed_job_counter": 675300,
+            "idle_time": 1976,
+            "memory": 25.00,
+            "cpu": 4.01
+        }
+    },
+    {
+        "id": "a5776833-e0cb-42b4-9da4-edc1f1947749",
+        "address": "https://host07.azure.uk.corporg.net:61000",
+        "type": 1,
+        "license": 1,
+        "status": 1,
+        "processing": 1,
+        "started_at": 1697825592959,
+        "runtimes": [
+            "10.0.0",
+            "10.0.1",
+            "10.0.2",
+            "9.0.0",
+            "9.0.1",
+            "9.0.2",
+            "9.0.3",
+            "9.1.0",
+            "9.1.1",
+            "9.1.2",
+            "9.5.0",
+            "9.5.1",
+            "9.5.2"
+        ],
+        "version": "10.0.2-v10.0.2rc0",
+        "job_limit": 8,
+        "group": null,
+        "metrics": {
+            "nb_running_jobs": null,
+            "nb_queued_jobs": null,
+            "nb_recent_jobs": 50,
+            "processed_job_counter": 675300,
+            "idle_time": 776,
+            "memory": 12.86,
+            "cpu": 2.75
+        }
+    }  
+]
